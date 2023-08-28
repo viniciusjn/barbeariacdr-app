@@ -1,0 +1,23 @@
+.gustavo {
+    display: flex;
+    justify-content: space-around;
+}
+.branco {
+    margin-top: 100px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.link {
+    color: rgb(100, 92, 92);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: black;
+}
+
+.color-black {
+    color: #212529;
+    font-family: ;
+}
