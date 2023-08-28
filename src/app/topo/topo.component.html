@@ -59,8 +59,10 @@
               Cortes e Produtos
             </a>
             <ul class="dropdown-menu dropdown-menu-dark">
-              <li><a class="dropdown-item font-default" href="#">Cortes</a></li>
-              <li><a class="dropdown-item font-default" href="#">Produtos</a></li>
+              <li><a class="dropdown-item font-default" routerLinkActive="active"
+                [routerLink]="['cortes']">Cortes</a></li>
+              <li><a class="dropdown-item font-default" routerLinkActive="active"
+                [routerLink]="['produtos']">Produtos</a></li>
               <li></li>
             </ul>
           </li>

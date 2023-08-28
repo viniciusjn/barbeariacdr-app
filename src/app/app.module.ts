@@ -8,6 +8,8 @@ import { TopoComponent } from './topo/topo.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { SobreComponent } from './sobre/sobre.component';
+import { CortesComponent } from './cortes/cortes.component';
+import { ProdutosComponent } from './produtos/produtos.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +17,9 @@ import { SobreComponent } from './sobre/sobre.component';
     TopoComponent,
     FooterComponent,
     HomeComponent,
-    SobreComponent
+    SobreComponent,
+    CortesComponent,
+    ProdutosComponent
   ],
   imports: [
     BrowserModule,
