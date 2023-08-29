@@ -1,7 +1,7 @@
 Projeto da faculdade - Site para uma barbearia <br>
 obs: este repositório é referente ao front-end
 
--> OBJETIVO: o objetivo principal era a criação de um site (apenas front-end) com temática livre utilizando Angular e Bootstrap, no mínimo 4 páginas com navegação através de "routing"
+-> OBJETIVO: o objetivo principal era a criação de um site (apenas front-end) com temática livre utilizando Angular e Bootstrap, toda estruturação da aplicação devia ser feita em componentes, no mínimo 4 páginas com navegação através de "routing"
 
 especificações:
 - foi realizado com Angular
