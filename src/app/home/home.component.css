@@ -54,3 +54,7 @@ p {
     width:100%;
     position:absolute;
 }
+
+.ajeitar-icons {
+    justify-content: left
+}
