@@ -1,8 +1,9 @@
 # Barbearia Complexo do RD
-### projeto defront-end
+<br>
 
 ## 📌 Objetivo
 O objetivo principal era a criação de um site com temática livre utilizando Angular e Bootstrap, toda estruturação da aplicação devia ser feita em componentes, no mínimo 4 páginas com navegação através de "routing". Fiz um pequeno site institucional de uma barbearia da minha cidade focado apenas em passar algumas informações sobre os barbeiros, cortes e produtos aplicando os parâmetros solicitados.
+-> Este projeto é apenas de front-end!
 
 
 ## 🛠️ Ferramentas e tecnologias
