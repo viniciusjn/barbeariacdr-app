@@ -22,7 +22,7 @@ O objetivo principal era a criação de um site com temática livre utilizando A
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-### Pré-requisitos
+### -> pré-requisitos
 
 Você necessita ter o [Node.js](https://nodejs.org/en) instalado na sua máquina, para verificar se já possui, abra o terminal e digite:
 
@@ -30,7 +30,7 @@ Você necessita ter o [Node.js](https://nodejs.org/en) instalado na sua máquina
 npm --version
 ```
 
-### Instalação
+### -> instalação
 
 Com o Node instalado, você deverá primeiramente clonar o repositório em uma pasta de sua preferência:
 
