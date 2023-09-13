@@ -1,15 +1,21 @@
-# Barbearia Complexo do RD ### (front-end)
+# Barbearia Complexo do RD
 ### (front-end)
-
 Um pequeno site institucional de uma barbearia da minha cidade focado apenas em passar algumas informações sobre os barbeiros, cortes e produtos
 
-## 🛠️ Ferramentas
+## 📌 Objetivo
+O objetivo principal era a criação de um site (apenas front-end) com temática livre utilizando Angular e Bootstrap, toda estruturação da aplicação devia ser feita em componentes, no mínimo 4 páginas com navegação através de "routing"
 
-Mencione as ferramentas que você usou para criar seu projeto
+## 🛠️ Ferramentas e tecnologias
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Angular](https://angular.io/) - foi utilizado como framework web principal
+* [Bootsatrp](https://getbootstrap.com/) - foi utlizado para alguns componentes em HTMl e CSS
+* [Typescript](https://www.typescriptlang.org/) - foi utlizado para realizar auxílio nas rotas entre as páginas
+
+<div style="display: inline_block; padding: 0 auto" align="center"><br>
+  <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+</div>
 
 ## 🚀 Começando
 
@@ -67,14 +73,6 @@ Dar exemplos
 
 Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
 ## 🖇️ Colaborando
 
 Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
@@ -109,14 +107,4 @@ obs: este repositório é referente ao front-end
 
 -> OBJETIVO: o objetivo principal era a criação de um site (apenas front-end) com temática livre utilizando Angular e Bootstrap, toda estruturação da aplicação devia ser feita em componentes, no mínimo 4 páginas com navegação através de "routing"
 
-especificações:
-- foi realizado com Angular
-- foi utlizado Bootstrap
-- foi utlizado TypeScript
-- explicando nome do repositório: barbeariacdr-app (Barbearia Complexo do RD - Aplicação/Front-End)
 
-  <div style="display: inline_block; padding: 0 auto" align="center"><br>
-  <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-  </div>
