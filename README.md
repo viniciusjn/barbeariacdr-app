@@ -1,4 +1,4 @@
-# Barbearia Complexo do RD
+# Barbearia Complexo do RD ### (front-end)
 ### (front-end)
 
 Um pequeno site institucional de uma barbearia da minha cidade focado apenas em passar algumas informações sobre os barbeiros, cortes e produtos
