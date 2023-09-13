@@ -59,7 +59,3 @@ ng serve
 ```
 
 Acesse o link disponibilizado no terminal e veja o projeto rodando!
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
