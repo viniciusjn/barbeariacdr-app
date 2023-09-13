@@ -7,81 +7,56 @@ O objetivo principal era a criação de um site com temática livre utilizando A
 
 ## 🛠️ Ferramentas e tecnologias
 
-* [Angular](https://angular.io/) - foi utilizado como framework web principal
-* [Bootsatrp](https://getbootstrap.com/) - foi utlizado para alguns componentes em HTMl e CSS
-* [Typescript](https://www.typescriptlang.org/) - foi utlizado para realizar auxílio nas rotas entre as páginas
+* [Angular](https://angular.io/) - foi utilizado como framework web principal.
+* [Bootstrap](https://getbootstrap.com/) - foi utlizado para alguns componentes em HTMl e CSS.
+* [Typescript](https://www.typescriptlang.org/) - foi utlizado para realizar auxílio nas rotas entre as páginas.
 
 <div style="display: inline_block; padding: 0 auto" align="center"><br>
   <img align="center" alt="Angular" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="TypeScript" height="30" width="40" href="#" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
 </div>
+<br>
 
-## 🚀 Começando
+## 🚀 Rodando o projeto
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+### Pré-requisitos
 
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
+Você necessita ter o [Node.js](https://nodejs.org/en) instalado na sua máquina, para verificar se já possui, abra o terminal e digite:
 
 ```
-Dar exemplos
+npm --version
 ```
 
-### 🔧 Instalação
+### Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Com o Node instalado, você deverá primeiramente clonar o repositório em uma pasta de sua preferência:
 
 ```
-Dar exemplos
+git clone https://github.com/viniciusjn/barbeariacdr-app.git
 ```
 
-E repita:
+Logo depois deverá entrar no repositório:
 
 ```
-Até finalizar
+cd barbeariacdr-app
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
+Instalar todas as depedências:
 
 ```
-Dar exemplos
+npm install
 ```
 
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
+E por fim rodar o projeto:
 
 ```
-Dar exemplos
+ng serve
 ```
 
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-## ✒️ Autores
+Acesse o link disponibilizado no terminal e veja o projeto rodando!
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
@@ -93,18 +68,3 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 ## 📄 Licença
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-
-
-
-
-
-
-
-
-Projeto da faculdade - Site para uma barbearia <br>
-obs: este repositório é referente ao front-end
-
--> OBJETIVO: o objetivo principal era a criação de um site (apenas front-end) com temática livre utilizando Angular e Bootstrap, toda estruturação da aplicação devia ser feita em componentes, no mínimo 4 páginas com navegação através de "routing"
-
-
