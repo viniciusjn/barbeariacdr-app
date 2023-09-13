@@ -2,8 +2,10 @@
 ### (front-end)
 Um pequeno site institucional de uma barbearia da minha cidade focado apenas em passar algumas informações sobre os barbeiros, cortes e produtos
 
+
 ## 📌 Objetivo
 O objetivo principal era a criação de um site (apenas front-end) com temática livre utilizando Angular e Bootstrap, toda estruturação da aplicação devia ser feita em componentes, no mínimo 4 páginas com navegação através de "routing"
+
 
 ## 🛠️ Ferramentas e tecnologias
 
